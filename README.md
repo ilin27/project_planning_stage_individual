@@ -1,2 +1,3 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Project Planning Stage (Individual)
+This is a repository for DSCI 100 project planning stage (individual).
+
